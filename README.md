@@ -41,6 +41,9 @@ http://opencv.willowgarage.com/wiki/
 Here is the link for our screencast uploaded on youtube
 http://youtu.be/EXqLxEb0QRw
 
+Here is the link for our demo video uploaded on youtube
+http://youtu.be/CrjYpmYYFVE
+
 References
 ===========
 
