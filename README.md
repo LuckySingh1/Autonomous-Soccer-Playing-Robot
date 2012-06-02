@@ -16,8 +16,8 @@ Project Description
 -------------------
 
 Designing and developing a method for processing vision data into commands for motion control for autonomous soccer playing robot.
-Autonomous robots are robots that can perform various designated tasks by understanding the environment without continuous human guidance. 
-There will be 2 Spark V robots, one goal-keeper and one striker. 
+Autonomous robots are robots that can perform various designated tasks by understanding the environment without continuous human guidance.ï¿½
+There will be 2 Spark V robots, one goal-keeper and one striker.ï¿½
 The striker will be human controlled whereas, goal keeper would be fully autonomous.
 The striker will try to make a goal and the goal-keeper will try to defend it by moving in the way of the striker.
 
